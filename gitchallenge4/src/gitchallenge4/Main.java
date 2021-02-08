@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("MADE SOME CHANGES");
 		System.out.println("CREATING MERGE CONFLICT");
 		System.out.println("updated");
+		System.out.println("created a new branch feature2");
 		
 	}
 }

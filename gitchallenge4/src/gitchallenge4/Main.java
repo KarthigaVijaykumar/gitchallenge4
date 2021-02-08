@@ -9,5 +9,6 @@ public class Main {
 		System.out.println("karthiga");
 		System.out.println("MADE SOME CHANGES");
 		System.out.println("CREATING MERGE CONFLICT");
+		System.out.println("updating some changes");
 	}
 }
